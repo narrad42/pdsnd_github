@@ -5,7 +5,7 @@ This project was created on June 8
 Python bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+This project analyses and presents analysed bikeshare data
 
 ### Files used
 Include the files used
